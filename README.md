@@ -1,0 +1,2 @@
+# smda-terraform
+terraform integration
